@@ -5,3 +5,7 @@
 // app/assets/config/manifest.js
 //= link popper.js
 //= link bootstrap.min.js
+
+
+
+rails generate model List name:string
